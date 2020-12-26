@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-nguyen duc viet dang hoc github
-=======
-nguyen duc viet dang hoc github
-truong dai hoc 
-learm github 
->>>>>>> d3d3a78e29c7085b8557bbb3a048931344d09d21
